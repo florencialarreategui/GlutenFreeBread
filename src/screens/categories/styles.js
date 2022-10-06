@@ -7,6 +7,9 @@ export const styles = StyleSheet.create({
         alingItems:"center",
         justifyContent: "center",
     },
+    containerList:{
+        flex:1,
+    },
     title: {
         fontFamily: "Rubik-Regular",
     }
